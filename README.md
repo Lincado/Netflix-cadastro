@@ -10,5 +10,5 @@ Página de quem deseja criar conta na Netflix
 <p>Abaixo um vídeo de como ficou.</p>
 
 
-  ![gifneftflix-cadastro](https://user-images.githubusercontent.com/103528491/178346008-785f8da1-f4a9-43f6-b363-f49448fcc011.mp4)
+  !https://github.com/Lincado/Netflix-cadastro/issues/1#issue-1301150730
   
