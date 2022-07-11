@@ -7,8 +7,7 @@ Página de quem deseja criar conta na Netflix
 
 <p>Recriando página de quem deseja criar conta na Netflix.</p>
 <p>Depois de estudar um pouco resolvi recriar essa página com minimo de ajuda possível para aprimorar o que ja havia visto</p>
-<p>Abaixo um vídeo de como ficou.</p>
+<p>Abaixo um gif de como ficou.</p>
 
-
-  !https://github.com/Lincado/Netflix-cadastro/issues/1#issue-1301150730
+![Netflixcadastro](https://user-images.githubusercontent.com/103528491/178348218-e614e6bf-95d6-4a4f-a78c-7e880ffaf403.gif)
   
